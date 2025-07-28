@@ -11,7 +11,7 @@ GRID_SIZE = 4
 BLOCK_SIZE = WIDTH // GRID_SIZE
 TOP_BAR = 100
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("🎮 Memory Obstacle Game")
+pygame.display.set_caption("🎮PLAYBLOCK -Memory Obstacle Game")
 
 # Fonts
 FONT = pygame.font.SysFont("segoeui", 28)
